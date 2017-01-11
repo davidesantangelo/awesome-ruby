@@ -1061,6 +1061,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
 * [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
 * [Pusher](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+* [Restcountry](https://github.com/davidesantangelo/restcountry) Ruby wrapper around REST Countries API.
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail.
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby.
 * [simple-slack-bot](https://github.com/kciter/simple-slack-bot) - You can easily make Slack Bot.
